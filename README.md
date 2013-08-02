@@ -1,7 +1,7 @@
 SerialProxy-CLI
 ===========
 シリアルポートとアプリケーションの間でソケット通信を行います。
-SerialProxy（https://github.com/arthur87/SerialProxy）のコマンドラインバージョンです。
+SerialProxy（ https://github.com/arthur87/SerialProxy ）のコマンドラインバージョンです。
 
 インストール
 ------------
